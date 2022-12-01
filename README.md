@@ -34,6 +34,6 @@ Neste projeto o expert utilizou o Docker Compose para executar uma aplicação H
 
 Quer ver como está ficando? Acesse [**AQUI**](https://paucinha.github.io/projeto-docker/)
 
-Desenvolvido no curso de Docker Compose pela [**DIO**](https://www.dio.me/)
+Projeto desenvolvido durante o Bootcamp Cloud DevOps Experience - Banco Carrefour, fornecido pela [**DIO**](https://www.dio.me/)
 
 By Paucinha!!!
