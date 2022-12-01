@@ -1,5 +1,3 @@
-![HTML, CSS e JS](https://github.com/Paucinha/assets/blob/master/transferir.jpg?raw=true)
-
 # Projeto Docker Compose
 
 [![GitHub](https://img.shields.io/github/license/Paucinha/projeto-docker)](https://github.com/Paucinha/docker-compose/blob/master/LICENSE)
@@ -23,4 +21,8 @@ Neste projeto o expert utilizou o Docker Compose para executar uma aplicação H
 - Conhecimento Básico em HTML;
 - Computador com SO de sua preferência (Windows, Linux, Mac OS).
 
-Quer ver como está ficando? Acesse [AQUI]()
+Quer ver como está ficando? Acesse [**AQUI**](https://paucinha.github.io/projeto-docker/)
+
+Desenvolvido no curso de Docker Compose pela [**DIO**](https://www.dio.me/)
+
+By Paucinha!!!
