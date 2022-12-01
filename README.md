@@ -2,7 +2,7 @@
 
 # Projeto Docker Compose
 
-[![GitHub](https://img.shields.io/github/license/paucinha/imersaodev-aluraflix)](https://github.com/Paucinha/docker-compose/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/Paucinha/projeto-docker)](https://github.com/Paucinha/docker-compose/blob/master/LICENSE)
 
 # Descrição
 
