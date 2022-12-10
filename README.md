@@ -17,7 +17,7 @@ Neste projeto o expert utilizou o Docker Compose para executar uma aplicação H
                                                                                                                                             
 ##                                                                                                                               
                                                                                                                                             
-# Passo a Passo
+## Passo a Passo
 
 1 - Criar um arquivo YML com as definições de um servidor Apache (httpd);
   
